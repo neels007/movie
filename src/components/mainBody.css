@@ -1,0 +1,30 @@
+.mainBody{
+    padding-top: 10px;
+    color: rgb(6, 179, 205);
+    text-align: center;
+}
+
+.radio, .serch, .btn{
+    margin: 10px;
+}
+
+.btn , .radio{
+    cursor: pointer;
+    background-color:rgb(6, 179, 205);  
+}
+
+.btn{
+    border-radius: 10px;
+    padding:  5px 10px 5px 10px;
+
+}
+
+.serch{
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(6, 179, 205);
+    border-radius: 10px;
+    padding: 5px 0px 5px 0px;
+    font-size: 25px;
+    
+}
